@@ -1,0 +1,46 @@
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 8\COMP2614Assign07\COMP2614Assign07\bin\Debug\COMP2614Assign07.exe.config
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 8\COMP2614Assign07\COMP2614Assign07\bin\Debug\COMP2614Assign07.exe
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 8\COMP2614Assign07\COMP2614Assign07\bin\Debug\COMP2614Assign07.pdb
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 8\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.csprojAssemblyReference.cache
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 8\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.MainForm.resources
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 8\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.Properties.Resources.resources
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 8\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.csproj.GenerateResource.cache
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 8\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.csproj.CoreCompileInputs.cache
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 8\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.exe
+D:\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 8\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.pdb
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.EditDialog.resources
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.MainForm.resources
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.Properties.Resources.resources
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.csproj.GenerateResource.cache
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.csproj.CoreCompileInputs.cache
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.exe
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.pdb
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\bin\Debug\COMP2614Assign07.exe.config
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\bin\Debug\COMP2614Assign07.exe
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\bin\Debug\COMP2614Assign07.pdb
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.csprojAssemblyReference.cache
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\bin\Debug\InvoiceLookupApi.dll
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.csproj.CopyComplete
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.PrintInvoiceReportDialog.resources
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\bin\Debug\BusinessLib.dll
+C:\Users\lchen2\Desktop\BCIT\C#\COMP2614Assign07\COMP2614Assign07\COMP2614Assign07\bin\Debug\BusinessLib.pdb
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\bin\Debug\COMP2614Assign07.exe.config
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\bin\Debug\COMP2614Assign07.exe
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\bin\Debug\COMP2614Assign07.pdb
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\bin\Debug\BusinessLib.dll
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\bin\Debug\InvoiceLookupApi.dll
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\bin\Debug\BusinessLib.pdb
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.csprojAssemblyReference.cache
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.EditDialog.resources
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.MainForm.resources
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.PrintInvoiceReportDialog.resources
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.Properties.Resources.resources
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.csproj.GenerateResource.cache
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.csproj.CoreCompileInputs.cache
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.csproj.CopyComplete
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.exe
+C:\Users\LavinoAdmin\OneDrive - alumni.ubc.ca\BCIT Course\COMP2614 C# Application Development\Assignments\Week 11\COMP2614Assign07cd\COMP2614Assign07\COMP2614Assign07\obj\Debug\COMP2614Assign07.pdb
