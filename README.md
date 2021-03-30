@@ -7,29 +7,26 @@ This is a C#/.NET MVC program to manage customers and invoices for a virtual sto
 
 ## Requirements & Technologies
 * Implementation of software design pattern - Model-View-ViewModel (MVVM) with C#/.NET database connectivity API and operations of ADO.NET objects.
-* Application of C# graphical user interface (GUI) including DataBinding practice.
+* Application of Windows form UI and C# graphical user interface (GUI) including DataBinding practice.
 * Demonstration of C# database practice with Microsoft MySQL ODBC operations and network programming, including C.R.U.D management and language integrated query (LINQ).
 * Practice of layered architecture design, code seperation, and DLL/Class Libraries setup.
 * Usage of ErrorProvider class with validation of regular expressions and mask standers.
 
 ## Sample Output
 Program presentation/outlook:   
-![alt text]( "Program outlook")
+![alt text](https://github.com/lavinotan/customer_invoice_manager/blob/8b2db4b263e23f8c82751deefa96c5b44e3e3d07/sample_output/program_outlook.PNG "Program outlook")
 
-Customer report:   
-![alt text]( "Customer report example")
+Customer Edit Dialog:     
+![alt text](https://github.com/lavinotan/customer_invoice_manager/blob/8b2db4b263e23f8c82751deefa96c5b44e3e3d07/sample_output/customer_edit_window.PNG "Customer edit window")
 
-Customer details shows up when click row in customer report table:     
-![alt text](G "Customer detail example")
+Customer Edit Dialog for Adding New Customer:   
+![alt text](https://github.com/lavinotan/customer_invoice_manager/blob/8b2db4b263e23f8c82751deefa96c5b44e3e3d07/sample_output/customer_edit_window_new.PNG "Customer edit window for new client")
 
-Purchase report options:   
-![alt text]( "Purchase report options")
+Invoice Report Printout:    
+![alt text](https://github.com/lavinotan/customer_invoice_manager/blob/8b2db4b263e23f8c82751deefa96c5b44e3e3d07/sample_output/invoice_report_printout.PNG "Customer invoice report printout")
 
-User input for customer ID filering to generate purchase report:    
-![alt text]( "User input for customer ID filering")
-
-Purchase report filtered by customer ID:   
-![alt text]( "Purchase report filtered by customer ID")
+Warning for Invalid Input:   
+![alt text](https://github.com/lavinotan/customer_invoice_manager/blob/8b2db4b263e23f8c82751deefa96c5b44e3e3d07/sample_output/input_validation_warning.PNG "Invalid input warning")
 
 ## Miscellaneous
 All rights reserved for the author. Do not use this code for any course assignments/labs. 
